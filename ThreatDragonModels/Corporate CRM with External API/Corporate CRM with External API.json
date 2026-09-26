@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "Corporate CRM with External API",
+    "owner": "Zhuzzaa",
+    "description": "Threat Model for Corporate CRM with External API Integration",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
